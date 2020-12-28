@@ -9,7 +9,7 @@
               <th scope="col">Email</th>
               <th scope="col">Phone</th>
               <th scope="col">DateOfBirth</th>
-              <th scope="col">Subjects</th>
+              <!-- <th scope="col">Subjects</th> -->
             </tr>
           </thead>
           <tbody>
@@ -18,7 +18,7 @@
               <td>{{ student.email }}</td>
               <td>{{ student.phone }}</td>
               <td>{{ student.dateOfBirth }}</td>
-              <td>{{ student.subjects }}</td>
+              <!-- <td>{{ student.subjects }}</td> -->
             </tr>
           </tbody>
         </table>

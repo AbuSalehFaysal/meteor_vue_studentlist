@@ -3,10 +3,10 @@
     <br />
     <div>
   <b-navbar toggleable="lg" type="dark" variant="success">
-    <b-navbar-brand to="/home">NavBar</b-navbar-brand>
+    <b-navbar-brand to="/home">Home</b-navbar-brand>
     <b-navbar-brand to="/add-student">Add Student</b-navbar-brand>
     <b-navbar-brand to="/add-subject">Add Subject</b-navbar-brand>
-    <b-navbar-brand to="/assign-subject">Assign Subject</b-navbar-brand>
+    
 
     <b-navbar-toggle target="nav-collapse"></b-navbar-toggle>
       <!-- Right aligned nav items -->

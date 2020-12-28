@@ -26,7 +26,7 @@
 </template>
 
 <script>
-//import { AssignSubjects } from '../../api/AssignSubjects'
+// import { AssignSubjects } from '../../api/AssignSubjects'
 export default {
   data() {
     return {
@@ -47,7 +47,7 @@ export default {
           console.log(result);
         }
       });
-      //   this.assignSubject = ""
+      //  this.assignSubject = ""
     },
   },
   meteor: {
